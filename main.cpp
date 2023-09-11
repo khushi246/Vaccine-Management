@@ -94,7 +94,7 @@ void covid_management::menu()
         break;
     case 3:
         system("cls");
-        cout << "\n\n\t\t\t COVID19 MANAGEMENT SYSTEM - BY SAGAR DEVELOPER";
+        cout << "\n\n\t\t\t COVID19 MANAGEMENT SYSTEM";
         Sleep(10);
         exit(0);
     default:
